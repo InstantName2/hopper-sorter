@@ -12,7 +12,7 @@ Includes
 - Players can edit a hopper only when protection plugins would let them open it
 - Works without NMS
 
-Re-worked version of JEFF-Media's [Hopper-sorter](https://www.spigotmc.org/resources/filtered-hoppers.96037)
+Re-worked version of [JEFF-Media's Hopper-sorter](https://www.spigotmc.org/resources/filtered-hoppers.96037)
 
 [![Click counter](https://hits.dwyl.com/InstantName2/hopper-sorter.svg?style=flat-square)](http://hits.dwyl.com/InstantName2/hopper-sorter)
 
