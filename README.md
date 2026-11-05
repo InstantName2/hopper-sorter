@@ -44,6 +44,7 @@ Aliases: `/hopperfiltering`, `/filteredhoppers`
 | `gui.yml` | Menu title, slot layout, buttons, and exact-match text |
 | `config.yml` | Chat messages, and whether filter items drop when the hopper breaks |
 | `hoppers.yml` | Saved filters. Written by the plugin |
+
 Might add a hopper speed changer/upgrade system in the future.
 
 ## Virus Total scan
