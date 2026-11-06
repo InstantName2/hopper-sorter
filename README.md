@@ -15,6 +15,7 @@ Includes
 Re-worked version of [JEFF-Media's Hopper-sorter](https://www.spigotmc.org/resources/filtered-hoppers.96037)
 
 [![Click counter](https://hits.dwyl.com/InstantName2/hopper-sorter.svg?style=flat-square)](http://hits.dwyl.com/InstantName2/hopper-sorter)
+
 Join my [Discord server](https://discord.gg/sYMxBvKwUJ) for plugins
 
 ## Use
